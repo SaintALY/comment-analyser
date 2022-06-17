@@ -1,0 +1,11 @@
+{
+    "name": "Comment Analyser",
+    "version": "1.0.0",
+    "description": "NLP Analysis for YT Comments",
+    "manifest_version": 3,
+    "author": "SALY",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Comment Analyser"
+    }
+}
