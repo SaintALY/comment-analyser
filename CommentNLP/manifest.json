@@ -1,7 +1,7 @@
 {
-    "name": "YT Comment Analyser",
+    "name": "YT Comment NLP",
     "version": "0.1.0",
-    "description": "Analysing the comment section of a YouTube Video",
+    "description": "NLPing the comment section of a YouTube Video",
     "permissions": ["storage", "tabs"],
     "host_permissions": ["https://*.youtube.com/*"],
     "background": {
@@ -30,7 +30,7 @@
         "24": "assets/ext-icon.png",
         "32": "assets/ext-icon.png"
       },
-      "default_title": "YT Comment Analyser",
+      "default_title": "YT Comment NLP",
       "default_popup": "popup.html"
     },
     "manifest_version": 3
