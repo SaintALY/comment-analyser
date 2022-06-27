@@ -40,6 +40,7 @@
             console.log("log 1")
             
             // YT comment author, text
+            // ytComments = document.getElementsByClassName('ytd-comments')
             // author = ytComments['sections']['items_'][0]['commentThreadRenderer']['comment']['commentRenderer']['authorText']['simpleText']
             // commentText = ytComments['sections']['items_'][0]['commentThreadRenderer']['comment']['commentRenderer']['contentText']['runs'][0]['text']
 
